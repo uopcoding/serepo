@@ -1,1 +1,2 @@
 # serepo
+Initial page
